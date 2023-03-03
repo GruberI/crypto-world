@@ -15,13 +15,3 @@ root.render(
     </Provider>
   </Router>
 );
-
-//Redux Provider wraps around the app so it's available
-
-// ***Old way to render****
-// ReactDOM.render(
-//   <Router>
-//     <App />
-//   </Router>,
-//   document.getElementById("root")
-// );
